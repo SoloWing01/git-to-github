@@ -3,3 +3,5 @@ this is first file from git to github
         Solow Is Here
 
 add another content for commit
+
+this is third line for direct push with one set of --upstream or -u
